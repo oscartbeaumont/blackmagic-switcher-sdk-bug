@@ -1,4 +1,4 @@
-# Blackmagic SDK Bug
+# Blackmagic Switcher SDK Bug
 
 This example is based off the `DeviceInfo` sample project. It will only run on macOS, however the code could easily be adapted to run on the Windows SDK.
 
